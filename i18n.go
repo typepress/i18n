@@ -8,9 +8,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/typepress/core/types"
+	"github.com/typepress/types"
 
-	"github.com/codegangsta/martini"
+	"github.com/go-martini/martini"
 )
 
 var (
